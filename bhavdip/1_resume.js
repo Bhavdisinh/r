@@ -7,8 +7,7 @@ function Resume() {
 
       <p>
         <strong>Phone:</strong> +91 9426465632 |
-        <strong> Email:</strong> codewithashu74@gmail.com |
-        <strong> GitHub:</strong> github.com/codewitthashu |
+        <strong> Email:</strong> jayesh15@gmail.com |
         <strong> Location:</strong> Bhavnagar, Gujarat, India
       </p>
 
